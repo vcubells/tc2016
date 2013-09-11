@@ -1,0 +1,32 @@
+Actividad,TP,HT,HL,HI,FCE,FCL,FFE,FFL,Critica
+A,5,1,1,1,0,1,1,6,False
+B,3,0,0,0,0,0,0,3,True
+C,3,2,0,0,0,2,2,5,False
+D,3,0,0,0,3,3,3,6,True
+Fict1,0,3,3,1,3,6,6,6,False
+E,4,0,0,0,6,6,6,10,True
+F,6,0,0,0,10,10,10,16,True
+G,5,2,2,0,3,5,5,10,False
+Fict2,0,0,0,0,10,10,10,10,True
+H,6,0,0,0,10,10,10,16,True
+I,4,0,0,0,16,16,16,20,True
+J,2,0,0,0,20,20,20,22,True
+Suceso,TE,TL,H,Critico
+1,0,0,0,True
+2,3,3,0,True
+5,3,5,2,False
+3,6,6,0,True
+4,10,10,0,True
+6,10,10,0,True
+7,16,16,0,True
+8,20,20,0,True
+9,22,22,0,True
+Duracion Total = 22
+ B 
+ D 
+ E 
+ F 
+ Fict2 
+ H 
+ I 
+ J 
